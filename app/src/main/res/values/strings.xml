@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Head phons app</string>
+    <string name="lorem">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper vel dolor vitae efficitur. Ut ac arcu euismod, faucibus diam et, vehicula lectus. Vivamus molestie mi eget commodo tincidunt. Sed fringilla, turpis quis eleifend euismod, enim augue lacinia orci, non interdum velit enim vel purus. Donec convallis mollis commodo. Vivamus sapien sem, lobortis eget odio sed, placerat luctus nibh. Nullam neque erat, luctus id libero at, iaculis accumsan ante. Maecenas ut diam imperdiet, dictum enim quis, maximus felis. In et ex quis est tincidunt mattis. Donec lacus erat, dictum id finibus sit amet, lacinia et ex. Aenean sodales luctus nulla ac placerat.
+
+Ut mauris felis, tempus ut convallis at, auctor eget leo. Donec feugiat scelerisque dolor quis vestibulum. Nulla ullamcorper imperdiet nisi ac viverra. Nullam faucibus dapibus mi, vitae lacinia urna rutrum a. Fusce ac faucibus massa, semper vehicula ligula. Vivamus aliquam nisi blandit ex cursus convallis. Maecenas a sollicitudin purus, non venenatis quam. Nullam accumsan aliquet vestibulum. </string>
+</resources>
